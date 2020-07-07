@@ -1,5 +1,4 @@
 node{
-    
     stage('SCM checkout'){
         git 'https://github.com/mallikdevops/my-app123'
     }
